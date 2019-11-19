@@ -23,6 +23,6 @@ Alternatively a copy of the license (COPYING) can be found in this projects repo
     *************************************************************************************
 
             If you are not comfortable with this, do not install this software.
-Installation and trouble shooting notes found here http://binarymist.net/category/projects/ups/
+Installation and trouble shooting notes found here http://blog.binarymist.net/category/projects/ups/
           Please read the documentation carefully before installing this software.
 

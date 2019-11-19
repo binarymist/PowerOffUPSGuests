@@ -1,0 +1,26 @@
+
+
+syntax: glob
+
+bin/*
+obj/*
+*ReSharper*/*
+*ReSharper*
+
+# Don't forget that if you want to match a pattern in any directory, you should not be using the "*"
+# match-any token, as this will only match within one directory. Instead, use the "**" token.
+# http://hgbook.red-bean.com/read/file-names-and-pattern-matching.html
+**.dll
+**.exe
+**.pdb
+**.suo
+**.user
+**.vsmdi
+**.testsettings
+UPS/FileServerPw.txt
+UPS/VMHostPw.txt
+UPS/FileServerPw
+UPS/VMHostPw
+Log.txt
+UPS/*.config
+BinaryMist.PowerOffUPSGuests.dll.config
